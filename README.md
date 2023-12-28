@@ -5,7 +5,6 @@
 - <b>Azure Cloud Project</b>
   - [Creating Live SOC/HoneyNet in Azure](https://github.com/eavi12/AzureSOCLab)
 
-- <b>Active Directory Lab</b>
-  - [Creating Live SOC/HoneyNet in Azure](https://github.com/eavi12/AzureSOCLab)
-
+- <b>Active Directory Project</b>
+  - [Active Directory Lab](https://github.com/eavi12/AD_lab)
 
